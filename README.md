@@ -36,14 +36,10 @@ The original website lacked a modern visual identity and responsive design. This
 ```
 APS/
 ├── index.html
-├── assets/
-│   ├── css/
-│   ├── js/
-│   └── images/
+├── script.js
+├── styles.css
 └── README.md
 ```
-
-> *Update this tree to reflect your actual directory structure.*
 
 ---
 
