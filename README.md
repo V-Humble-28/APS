@@ -27,9 +27,7 @@ The original website lacked a modern visual identity and responsive design. This
 
 | Original | Redesign |
 |----------|----------|
-| ![Original](./assets/screenshots/original.png) | ![Redesign](./assets/screenshots/redesign.png) |
-
-> *Replace the above paths with your actual screenshot filenames if different.*
+| ![Original](media/Pasted image 20260414220228.png) | ![Redesign](media/Pasted image 20260414220335.png) |
 
 ---
 
