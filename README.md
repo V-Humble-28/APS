@@ -27,7 +27,7 @@ The original website lacked a modern visual identity and responsive design. This
 
 | Original | Redesign |
 |----------|----------|
-| ![Original](media/Pasted_image_20260414220335.png) | ![Redesign](media/Pasted_image_20260414220228.png) |
+| ![Original](media/Pasted_image_og.png) | ![Redesign](media/Pasted_image_20260414220335.png) |
 
 ---
 
